@@ -1,0 +1,7 @@
+organization=ujjwal2101-github
+projectKey=ujjwal2101_samplemule3
+serverUrl=https://sonarcloud.io
+serverVersion=7.4.0.18624
+dashboardUrl=https://sonarcloud.io/dashboard?id=ujjwal2101_samplemule3
+ceTaskId=AWamd_k6CpA56q9LY2Jb
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWamd_k6CpA56q9LY2Jb
